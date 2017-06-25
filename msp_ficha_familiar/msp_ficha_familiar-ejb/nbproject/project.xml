@@ -65,6 +65,7 @@
             <included-library dirs="200">file.reference.jxl.jar</included-library>
             <included-library dirs="200">file.reference.poi-3.7.jar</included-library>
             <included-library dirs="200">file.reference.primefaces-3.4.2.jar</included-library>
+            <included-library dirs="200">file.reference.all-themes-1.0.10.jar</included-library>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
